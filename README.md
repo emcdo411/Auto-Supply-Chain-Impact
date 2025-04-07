@@ -48,7 +48,7 @@ To run locally:
 
 ## Live Demo
 
-Explore the app live at: [https://yourusername.shinyapps.io/SupplyChainImpact/](https://yourusername.shinyapps.io/SupplyChainImpact/) (replace with your actual URL).
+Explore the app live at: [https://yourusername.shinyapps.io/SupplyChainImpact/](https://mmcdonald411.shinyapps.io/SupplyChainImpact/) (replace with your actual URL).
 
 ## Code
 
@@ -286,7 +286,7 @@ Deployed on Shinyapps.io, `AutoSupplyChainImpact` showcases a blend of R program
 
 - Oxford Economics: "US Tariffs Impact on Automotive Imports" (inspired Makoto’s analysis).
 - U.S. International Trade Data (2024 estimates for export values).
-- Shinyapps.io Deployment: [https://yourusername.shinyapps.io/SupplyChainImpact/](https://yourusername.shinyapps.io/SupplyChainImpact/)
+- Shinyapps.io Deployment: [https://yourusername.shinyapps.io/SupplyChainImpact/](https://mmcdonald411.shinyapps.io/SupplyChainImpact/)
 ```
 
 ### Details
